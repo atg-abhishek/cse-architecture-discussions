@@ -13,8 +13,11 @@ This will serve as a place to get into a cadence of discussing architecture with
 
 Weekly calls where everyone goes through a single reading that is agreed upon in the previous week from the AOSA series 
 
-1. One person will be responsible for filling out the [template](Template.md) 
-2. During the call, notes will be added to the template document via PRs 
+1. One person will be responsible for filling out the [template](Template.md) ahead of the call 
+2. Others attending the call are responsible for reviewing the source material before the call. 
+2. During the call, the person who compiled the document will give a short presentation followed by the discussion. 
+3. During the call, notes will be added to the template document via PRs. 
+4. Post call, the presenter will assimilate the notes from the discussion. 
 
 ## Long-run goals
 
