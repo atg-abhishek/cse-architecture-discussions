@@ -9,6 +9,10 @@ This will serve as a place to get into a cadence of discussing architecture with
 2. Learn from a wide selection of successful open-source projects to surface a variety of best practices.
 3. Help early-career engineers gain experience and insights through peer discussions with senior team members. 
 
+## Signup sheet
+
+You can sign up to present for the weekly calls on the [Signup sheet](Signup.md)
+
 ## Format 
 
 Weekly calls where everyone goes through a single reading that is agreed upon in the previous week from the AOSA series 
