@@ -1,6 +1,6 @@
 # Template for doing architecture discussions and reviews (change this to title of solution under review)
 
-For an actual example of the template in use, please refer to the [HDFS](HDFS.md) document.
+For an actual example of the template in use, please refer to the [HDFS](./Discussions/HDFS.md) document.
 
 ## Link for the architecture under discussion 
 
