@@ -5,11 +5,5 @@
 | Date  | Presenter Name | Topic and link|
 | ------------- | -------------  | ------------- | 
 |  February 1 2019 | Abhishek Gupta  | [The Hadoop Distributed File System](http://aosabook.org/en/hdfs.html)  |
-|  February 8 2019 | *Your name*  | *Your topic*  |
-|  February 15 2019 | *Your name*  | *Your topic*  |
-|  February 22 2019 | *Your name*  | *Your topic*  |
 |  March 1 2019 | *Your name*  | *Your topic*  |
-|  March 8 2019 | *Your name*  | *Your topic*  |
-|  March 15 2019 | *Your name*  | *Your topic*  |
-|  March 22 2019 | *Your name*  | *Your topic*  |
 |  March 29 2019 | *Your name*  | *Your topic*  |
